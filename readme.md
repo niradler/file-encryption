@@ -1,6 +1,7 @@
 # file-encryption
 
-store keys safely inside your git repositories.
+encrypt and decrypt files.
+build for [git-secrets](https://github.com/niradler/git-secrets)
 
 ## Installing
 
