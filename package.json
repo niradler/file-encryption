@@ -1,0 +1,22 @@
+{
+  "name": "file-encryption",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "file encryption cli tool.",
+  "bin": {
+    "file-encryption": "file-encryption"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "encryption",
+    "nodejs"
+  ],
+  "author": "Nir Adler",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  }
+}
