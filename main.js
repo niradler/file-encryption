@@ -8,7 +8,7 @@ const exitWith = (code = 0, message) => {
   process.exit(code);
 };
 
-const main = async (cmd, args = {}) => {
+const main = (cmd, args = {}) => {
   try {
     switch (cmd) {
       case "encrypt":
